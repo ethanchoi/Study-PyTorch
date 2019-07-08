@@ -27,6 +27,8 @@ Offline PyTorch Study supported by AI Robotics KR group will be held for two hou
 - Q & A
 - Jupyter Notebook is preferred for basic tools running examples programs and explaining algorithms, etc
 
+---
+
 ## Schedule
 
 1. Week 1
@@ -61,5 +63,5 @@ Offline PyTorch Study supported by AI Robotics KR group will be held for two hou
 13. Week 13
     - Study Review & Closing
 
-
+---
 
