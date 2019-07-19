@@ -31,37 +31,23 @@ Offline PyTorch Study supported by AI Robotics KR group will be held for two hou
 
 ## Schedule
 
-1. Week 1
-    - Introduction
-    - Installing Pytorch, Jupyter Notebook, Anaconda and Etc
-    - Deep Learning with Pytorch: A 60 Minute Blitz
-2. Week 2
-    - Data Loading and Processing Tutorial
-    - Learning Pytorch With Examples - 1
-3. Week 3
-    - Learning Pytorch With Examples - 2
-4. Week 4
-    - Transfer Learning Tutorial
-    - Deploying A Seq2seq Model with The Hybrid Frontend - 1
-5. Week 5
-    - Deploying A Seq2seq Model with The Hybrid Frontend - 2
-    - Saving and Loading Models
-6. Week 6
-    - What Is Torch.Nn Really
-7. Week 7
-    - Torchvision 0.3 Object Detection Finetuning Tutorial
-8. Week 8
-    - Spatial Transformer Networks Tutorial
-9. Week 9
-    - Neural Transfer Using Pytorch
-10. Week 10
-    - Deep Learning for NLP With PyTorch
-11. Week 11
-    - DCGAN Tutorial
-12. Week 12
-    - Reinforcement Learning (DQN) Tutorial
-13. Week 13
-    - Study Review & Closing
+
+
+| Week  | Subject | Presenter|
+| --------- | --------- | :---:|
+| Week 1, 7/19 | Study Introduction, Setup Environments,Deep Learning with Pytorch: A 60 Minute Blitz-1 | 최재영 |
+| Week 2, 7/26 | Deep Learning with Pytorch: A 60 Minute Blitz-2 Data Loading and Processing Tutorial | 최재영 |
+| Week 3, 8/2 |Learning Pytorch With Examples |  |
+| Week 4, 8/9 | Transfer Learning Tutorial Saving and Loading Models |  |
+| Week 5, 8/16 | Deploying A Seq2seq Model with The Hybrid Frontend |  |
+| Week 6, 8/23 | What is torch.nn really ? |  |
+| Week 7, 8/30 | Torchvision 0.3 Object Detection Finetuning Tutorial |  |
+| Week 8, 9/6 | FineTunning Torchvision Model, Spatial Transformer Networks Tutorial |  |
+| Week 9, 9/20 | Neural Transfer Using Pytorch |  |
+| Week 9, 9/27 | Deep Learning for NLP With PyTorch |  |
+| Week 10, 10/4 | DCGAN Tutorial |  |
+| Week 11, 10/11 | Reinforcement Learning (DQN) Tutorial |  |
+| Week 12, 10/18 | Study Review, Future Plan, Party | ALL |
+
 
 ---
-
